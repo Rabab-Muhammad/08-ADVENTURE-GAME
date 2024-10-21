@@ -1,6 +1,6 @@
 {
-  "name": "08-adventure-game",
-  "version": "1.0.0",
+  "name": "@ra5243/08-adventure-game",
+  "version": "1.1.1",
   "description": "This is a Adventure game project",
   "main": "index.js",
   "type": "module",
